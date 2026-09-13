@@ -1,0 +1,4 @@
+id;routeNumber;departure;destination;departureTime;price;seatsTotal;seatsAvailable;status
+1;333;Москва;Владимир;08:30;350.0;50;30;Активен
+2;202;Санкт-Петербург;Новгород;10:00;450.0;44;20;Активен
+3;305;Казань;Нижний Новгород;14:15;280.0;55;55;Завершён
